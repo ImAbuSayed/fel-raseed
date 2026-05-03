@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في العتمات
+> أنا العاشق في صمت المسافات
+> نار الشوق تحرق الكلمات
+> والقلب ينبض في كل اللحظات
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
