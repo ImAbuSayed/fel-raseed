@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fel Raseed
+
+This log tracks the cryptographic history and versioning for the song **Fel Raseed** (fel-raseed).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:26:21.905828 | `v1` | `eadd203eebd1df1beb1e2c9aa83005a12a6a5ceb71222f903586cadf1cadc6f3` | `1f655f6d0715de71019d34bf0b0fc10ff464132c4c1f923b8a69b1a67d9f459a` | `2026-05-09_fel-raseed-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
